@@ -1,4 +1,4 @@
-# Code Alphs Medical Disease Prediction
+# Code Alpha Medical Disease Prediction
 ### Project Overview
 This project leverages advanced machine learning algorithms to predict potential medical conditions based on symptoms input by users. Our goal is to provide an accessible, preliminary diagnostic tool that can guide users towards seeking appropriate medical advice and care.
 
